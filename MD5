@@ -1,12 +1,12 @@
-6db4c82bf644c4cb86742c28787a4004 *DESCRIPTION
+516680074d98a8d0435eb5a7789d3f6b *DESCRIPTION
 ecf54b957968a23cc4c43659b909b3fd *NAMESPACE
-f1ac621654f1d0007aaad0bc4b6e4f1b *R/MCMC_normal.R
+45108a3c18002371b9d4faf8f439a67b *R/MCMC_normal.R
 f49013aa0c79e9b73e6cdff02a8eec11 *R/MCMC_poisson.R
 527ab4530a3ba5cd4df43dc570f2bc49 *R/additional_documentation.R
 1961639f6f4f7f9efffa91b624b3d060 *build/partial.rdb
 507f2b57ea23638d8be0a7aa63a9b77a *data/models_examples.rda
 f17b071e50bb6783db38fff50df2e537 *man/coef.hmm_mcmc_normal.Rd
-007d20525e867c8edab4ce187a16c20e *man/conf_mat.Rd
+ada19bab5ff2e7407f0cbae4a0abcb6f *man/conf_mat.Rd
 2a226a05d71c2f41fffe896ac4fab821 *man/convert_to_ggmcmc.Rd
 130dd6a9ac42bf8e6c3d7768900a5716 *man/eigen_system.Rd
 b0ecdd1c9448e6d7ff04333e907a1955 *man/example_hmm_mcmc_gamma_poisson.Rd
