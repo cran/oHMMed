@@ -1,7 +1,7 @@
 Package: oHMMed
 Type: Package
 Title: HMMs with Ordered Hidden States and Emission Densities
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
     person(given = "Michal",
            family = "Majka", 
@@ -21,7 +21,7 @@ Authors@R: c(
     )
 Description: Inference using a class of Hidden Markov models
     (HMMs) called 'oHMMed'(ordered HMM with emission densities 
-    <doi:10.1101/2023.06.26.546495>): The 'oHMMed' algorithms identify 
+    <doi:10.1186/s12859-024-05751-4>): The 'oHMMed' algorithms identify 
     the number of comparably homogeneous regions within observed sequences
     with autocorrelation patterns. These are modelled as discrete hidden
     states; the observed data points are then realisations of continuous
@@ -43,10 +43,10 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2023-11-18 21:13:31 UTC; michal
+Packaged: 2024-04-19 20:07:21 UTC; michal
 Author: Michal Majka [aut, cre] (<https://orcid.org/0000-0002-7524-8014>),
   Lynette Caitlin Mikula [aut] (<https://orcid.org/0000-0002-0252-4014>),
   Claus Vogl [aut] (<https://orcid.org/0000-0002-3996-7863>)
 Maintainer: Michal Majka <michalmajka@hotmail.com>
 Repository: CRAN
-Date/Publication: 2023-11-19 07:50:02 UTC
+Date/Publication: 2024-04-19 20:22:39 UTC
